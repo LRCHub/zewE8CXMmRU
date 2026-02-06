@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "スノーマン",
+  "base_artist": "ヒバナ",
+  "createdAt": "2026-02-06T19:53:23.299943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/01_スノーマン_7!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "halyosy feat. KAITO",
+      "has_synced": true,
+      "path": "select/02_スノーマン_halyosy_feat._KAITO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "halyosy",
+      "has_synced": true,
+      "path": "select/03_スノーマン_halyosy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "halyosy feat.KAITO",
+      "has_synced": true,
+      "path": "select/04_スノーマン_halyosy_feat.KAITO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スノーマン (鏡音レンボーカル Ver.)",
+      "artist": "halyosy",
+      "has_synced": true,
+      "path": "select/05_スノーマン_(鏡音レンボーカル_Ver.)_halyosy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スノーマン feat. KAITO",
+      "artist": "halyosy",
+      "has_synced": true,
+      "path": "select/06_スノーマン_feat._KAITO_halyosy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "seven oops",
+      "has_synced": false,
+      "path": "select/07_スノーマン_seven_oops.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "halyosy",
+      "has_synced": false,
+      "path": "select/08_スノーマン_halyosy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スノーマン (Rerec) - Snowman (Rerec)",
+      "artist": "halyosy",
+      "has_synced": true,
+      "path": "select/09_スノーマン_(Rerec)_-_Snowman_(Rerec)_halyosy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "KAITO",
+      "has_synced": true,
+      "path": "select/10_スノーマン_KAITO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "halyosy feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/11_スノーマン_halyosy_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スノーマン",
+      "artist": "halyosy",
+      "has_synced": true,
+      "path": "select/12_スノーマン_halyosy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スノーマン - Rerec",
+      "artist": "halyosy",
+      "has_synced": true,
+      "path": "select/13_スノーマン_-_Rerec_halyosy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スノーマン (Acoustic ver.)",
+      "artist": "7!!",
+      "has_synced": false,
+      "path": "select/14_スノーマン_(Acoustic_ver.)_7!!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スノーマン",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/pl_01_スノーマン_ヒバナ.txt"
+    }
+  ]
+}
